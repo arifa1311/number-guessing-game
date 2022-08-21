@@ -1,0 +1,27 @@
+body {
+    background-color: #dca3e2;
+}
+
+#container {
+    background-color: #6969dc;
+    border: 2px solid #f5e4c3;
+    height: 300px;
+    width: 600px;
+    margin: auto auto auto;
+    margin-top: 150px;
+    text-align: center;
+}
+
+p {
+    color: wheat;
+    font-size: 24px;
+}
+
+input {
+    width: 180px;
+    margin: 24px auto;
+}
+
+#btn {
+    margin: 24px auto auto auto 5px;
+}
